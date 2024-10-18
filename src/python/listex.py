@@ -31,9 +31,13 @@ for key, val in dict.items():
     elif val == lowest:
         print(f'{key} has lowest score of {val}')
 
-dict['prem'] = 99
+dict['sai'] = 69
 print(dict)
 dict.pop('vinitha')
 print(dict)
         
+    
+
+
+
     
